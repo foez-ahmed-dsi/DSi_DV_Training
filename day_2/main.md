@@ -1,4 +1,4 @@
-# Day 002
+# Day 2
 
 ## Self study QnA
 

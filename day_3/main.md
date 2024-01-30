@@ -1,4 +1,4 @@
-# Day 003
+# Day 3
 
 ## Introduction to Digital Circuit Components
 - FIFO

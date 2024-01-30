@@ -1,4 +1,4 @@
-# Day 001
+# Day 1
 
 ## Introduction to Digital Circuit Components
 - NOT, AND, OR, XOR, NAND, NOR, NXOR
