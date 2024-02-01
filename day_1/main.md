@@ -1,7 +1,7 @@
 # Day 1
 
 ## Introduction to Digital Circuit Components
-- NOT, AND, OR, XOR, NAND, NOR, NXOR
+- NOT, AND, OR, XOR, NAND, NOR, XNOR
 - MUX, DEMUX
 - DFF, JKFF, TFF
 - Synchronous & Asynchronous Desgins
