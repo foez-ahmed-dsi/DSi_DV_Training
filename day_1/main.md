@@ -14,12 +14,12 @@
 
 ## Introduction to free online circuit simulator Falstad
 - [falstad.com](https://www.falstad.com/circuit/circuitjs.html)
-- Design a Half added circuit
+- Design a Half adder circuit
 - Design a clock gate
 
 ## Introduction to diagrams.net
 - [diagrams.net](https://app.diagrams.net/)
-- Design a Full added circuit
+- Design a Full adder circuit
 
 ## Setup ICARUS Verilog
 ```
