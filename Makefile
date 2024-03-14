@@ -1,13 +1,13 @@
-MAX = 200
+MAX = 100
 
 main:
 	@ echo "# VLSI Design & Verification Training" > README.md
-	@	$(foreach num, $(shell seq 1 200), make --no-print-directory test DAY=$(num);)
+	@	$(foreach num, $(shell seq 1 $(MAX)), make --no-print-directory test TASK=$(num);)
 
 test:
-	@ echo "$(DAY) of $(MAX)"
-	@ test -f docs/day_$(DAY).md && make --no-print-directory get_headers DAY=$(DAY) || :
+	@ echo "$(TASK) of $(MAX)"
+	@ test -f docs/task_$(TASK).md && make --no-print-directory get_headers TASK=$(TASK) || :
 
 get_headers:
-	@echo "### [Day $(DAY)](docs/day_$(DAY).md)" >> README.md
-	@cat docs/day_$(DAY).md | grep -E "^## " | sed "s/^## /- /g" >> README.md
+	@echo "### [Task $(TASK)](docs/task_$(TASK).md)" >> README.md
+	@cat docs/task_$(TASK).md | grep -E "^## " | sed "s/^## /- /g" >> README.md
