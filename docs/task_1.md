@@ -1,6 +1,24 @@
-# Day 1
+# Task 1 : Linux Terminal
 
-## Moving about in Linux Terminal
+## Introduction
+
+The **Linux terminal**, also known as the command line interface (CLI), is a powerful tool that allows users to interact directly with the system's shell. Unlike the graphical user interface (GUI) which uses visual elements like windows, icons, and menus, the terminal relies on text-based commands.
+
+The terminal is important for several reasons:
+
+1. **Efficiency**: Tasks that require multiple clicks in a GUI can often be done in one or two commands in the terminal. This can greatly speed up your workflow.
+
+2. **Control**: The terminal gives you more control over your system. You can see exactly what's happening behind the scenes and make precise changes.
+
+3. **Scripting**: With the terminal, you can write scripts to automate repetitive tasks. This can save a lot of time and effort.
+
+4. **Troubleshooting**: The terminal allows you to dig deep into your system to troubleshoot and fix issues. Error messages are often more detailed in the terminal.
+
+5. **Remote Access**: You can access and manage your system remotely via the terminal using SSH (Secure Shell), which is crucial for server administration.
+
+Overall, while the terminal has a steeper learning curve compared to the GUI, its power and versatility make it an essential tool for anyone using Linux. Whether you're a system administrator, a developer, or an enthusiast, understanding how to use the terminal will greatly enhance your Linux experience.
+
+## Commonly used commands
 
 **`pwd`**: Print Working Directory. This command will display the directory in which you are currently located.
 
@@ -99,72 +117,3 @@ $ history
 ```bash
 $ clear
 ```
-
-## Introduction to GIT
-
-**git clone**: Creates a local copy of a project that already exists remotely. The clone includes all the project’s files, history, and branches.
-
-**git add**: Stages a change. Git tracks changes to a developer’s codebase, but it’s necessary to stage and take a snapshot of the changes to include them in the project’s history.
-
-**git commit**: Saves the snapshot to the project history and completes the change-tracking process. In short, a commit functions like taking a photo. Anything that’s been staged with `git add` will become a part of the snapshot with `git commit`.
-
-**git status**: Shows the status of changes as untracked, modified, or staged.
-
-**git branch**: Shows the branches being worked on locally.
-
-**git merge**: Merges lines of development together. This command is typically used to combine changes made on two distinct branches.
-
-**git pull**: Updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
-
-**git push**: Uplinks the local repository to the remote repository. This command is used to upload local repository content to a remote repository.
-
-**git checkout**: This command is used to switch from one branch to another. It can also be used to restore files.
-
-**git stash**: This command temporarily saves changes that you don't want to commit immediately. You can apply the stashed changes later.
-
-**git reset**: This command is used to reset your index as well as the working directory to the state of your last commit.
-
-**git log**: This command is used to display the commit history.
-
-**git diff**: This command shows the file differences which are not yet staged.
-
-
-
-
-
-## Introduction to Digital Circuit Components
-- NOT, AND, OR, XOR, NAND, NOR, XNOR
-- MUX, DEMUX
-- DFF, JKFF, TFF
-- Synchronous & Asynchronous Desgins
-
-## Introduction to free online circuit simulator Falstad
-- [falstad.com](https://www.falstad.com/circuit/circuitjs.html)
-- Design a Half adder circuit
-- Design a clock gate
-
-## Introduction to diagrams.net
-- [diagrams.net](https://app.diagrams.net/)
-- Design a Full adder circuit
-
-## Setup ICARUS Verilog
-```
-sudo apt update
-sudo apt install iverilog
-iverilog -v
-```
-
-## Introduction to VIM
-- Move around
-- Open Existing File
-- Save/Update File
-- Copy Paste
-- Search & replace
-
-## Self Study
-- https://www.chipverify.com/tutorials/systemverilog
-- https://www.chipverify.com/systemverilog/systemverilog-simple-testbench
-- https://www.chipverify.com/systemverilog/systemverilog-datatypes
-- https://www.chipverify.com/systemverilog/systemverilog-data-types-logic-bit
-- https://www.chipverify.com/systemverilog/systemverilog-data-types-integer-byte
-- https://www.chipverify.com/systemverilog/systemverilog-strings
