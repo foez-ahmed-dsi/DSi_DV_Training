@@ -18,6 +18,4 @@
 - Install
 - Simple Exercise
 
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2WAlUyBTxKw?si=0jjwXh0aF-6MCLyE&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</html>
+[![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg%29)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
