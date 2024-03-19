@@ -16,4 +16,4 @@
 ## [Task 4 : Vi IMproved (VIM)](docs/task_4.md)
 - Introduction
 - Install
-- Beginner's Tutorial
+- Simple Exercise
