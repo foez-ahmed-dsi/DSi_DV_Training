@@ -18,4 +18,4 @@
 - Install
 - Simple Exercise
 
-[![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg%29)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
+[![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
