@@ -1,4 +1,4 @@
-# Task 7 : SystemVerilog
+# Task 7 : SystemVerilog Datatypes
 
 ## Self Study
 - [INTRODUCTION                                             ](https://www.chipverify.com/tutorials/systemverilog)

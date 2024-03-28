@@ -1,12 +1,4 @@
 # Self Study:
-- [ENUMERATION                                              ](https://www.chipverify.com/systemverilog/systemverilog-enumeration)
-- [ARRAYS                                                   ](https://www.chipverify.com/systemverilog/systemverilog-arrays)
-- [PACKED ARRAYS                                            ](https://www.chipverify.com/systemverilog/systemverilog-packed-arrays)
-- [UNPACKED ARRAYS                                          ](https://www.chipverify.com/systemverilog/systemverilog-unpacked-arrays)
-- [DYNAMIC ARRAY                                            ](https://www.chipverify.com/systemverilog/systemverilog-dynamic-array)
-- [ASSOCIATIVE ARRAY                                        ](https://www.chipverify.com/systemverilog/systemverilog-associative-array)
-- [ARRAY MANIPULATION                                       ](https://www.chipverify.com/systemverilog/systemverilog-array-manipulation)
-- [QUEUE                                                    ](https://www.chipverify.com/systemverilog/systemverilog-queue)
 - [STRUCT                                                   ](https://www.chipverify.com/systemverilog/systemverilog-struct)
 - [TYPEDEF ALIAS                                            ](https://www.chipverify.com/systemverilog/systemverilog-typedef-alias)
 - [CONTROL FLOW LOOPS                                       ](https://www.chipverify.com/systemverilog/systemverilog-control-flow-loops)
