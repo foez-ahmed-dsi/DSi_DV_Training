@@ -1,10 +1,4 @@
 # Self Study:
-- [INTRODUCTION                                             ](https://www.chipverify.com/tutorials/systemverilog)
-- [SIMPLE TESTBENCH                                         ](https://www.chipverify.com/systemverilog/systemverilog-simple-testbench)
-- [DATATYPES                                                ](https://www.chipverify.com/systemverilog/systemverilog-datatypes)
-- [DATA TYPES LOGIC BIT                                     ](https://www.chipverify.com/systemverilog/systemverilog-data-types-logic-bit)
-- [DATA TYPES INTEGER BYTE                                  ](https://www.chipverify.com/systemverilog/systemverilog-data-types-integer-byte)
-- [STRINGS                                                  ](https://www.chipverify.com/systemverilog/systemverilog-strings)
 - [ENUMERATION                                              ](https://www.chipverify.com/systemverilog/systemverilog-enumeration)
 - [ARRAYS                                                   ](https://www.chipverify.com/systemverilog/systemverilog-arrays)
 - [PACKED ARRAYS                                            ](https://www.chipverify.com/systemverilog/systemverilog-packed-arrays)

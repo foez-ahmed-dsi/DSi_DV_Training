@@ -25,3 +25,6 @@
 - Introduction
 - Install
 - Simple Exercise
+## [Task 7 : SystemVerilog](docs/task_7.md)
+- Self Study
+- Simple Exercise
