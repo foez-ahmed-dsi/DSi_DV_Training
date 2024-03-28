@@ -1,4 +1,4 @@
-# Task 7 : SystemVerilog Datatypes
+# Task 8 : SystemVerilog
 
 ## Self Study
 - [ENUMERATION                                              ](https://www.chipverify.com/systemverilog/systemverilog-enumeration)

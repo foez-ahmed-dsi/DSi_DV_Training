@@ -25,9 +25,9 @@
 - Introduction
 - Install
 - Simple Exercise
-## [Task 7 : SystemVerilog Datatypes](docs/task_7.md)
+## [Task 7 : SystemVerilog](docs/task_7.md)
 - Self Study
 - Simple Exercise
-## [Task 7 : SystemVerilog Datatypes](docs/task_8.md)
+## [Task 8 : SystemVerilog](docs/task_8.md)
 - Self Study
 - Simple Exercise
