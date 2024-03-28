@@ -17,5 +17,11 @@
 - Introduction
 - Install
 - Simple Exercise
-
-[![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
+## [Task 5 : Icarus Verilog](docs/task_5.md)
+- Introduction
+- Install
+- Simple Exercise
+## [Task 6 : GNU Make](docs/task_6.md)
+- Introduction
+- Install
+- Simple Exercise
